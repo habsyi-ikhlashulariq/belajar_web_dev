@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+}
+table{
+    background-color: yellow;
+}
+#header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: violet;
+}
+.content{
+    color:tomato;
+}
